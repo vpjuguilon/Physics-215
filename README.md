@@ -1,5 +1,7 @@
 # Physics 266: Computational Methods of Physics
 
+2nd Semester AY 2024-2025
+
 Prof. May T. Lim
 
 ## Course Description
